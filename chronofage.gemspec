@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
 
   gem.licenses      = ["MIT"]
 
-  gem.required_ruby_version = "~> 2.0"
+  gem.required_ruby_version = "~> 3.0"
 end
